@@ -1,0 +1,3 @@
+# ¿Qué expectativa tiene de la materia?
+Me encantaría explorar cómo utilizar Python para desarrollar aplicaciones Full Stack, especialmente porque Python es un lenguaje versátil con una amplia gama de paquetes que abarcan desde IA hasta procesamiento de imágenes.
+La idea de crear una aplicación con acceso a una base de datos y un API para obtener datos de fuentes como Mercado Libre me entusiasma mucho. Además, me encantaría profundizar en temas como IA y Machine Learning para aplicarlos a nuestros proyectos.
